@@ -1,7 +1,10 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+# NAME :E.SANJAY
+# REG NO:212220040143
 
 ## Aim: To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network 
 ## Components required: Dragino LPS8 Indoor LoRaWAN gateway, ETHERNET cable RJ45,Internet connection 
+
 
 ## Theory :
 Dragino LPS8 Indoor LoRaWAN gateway
